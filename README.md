@@ -8,7 +8,7 @@
   font-family: "Zhaohua-Typewriter";
   font-display: swap;
   font-style: normal;
-  src: url("https://cdn.jsdelivr.net/gh/EOZStudio/ZhaohuaTypewriter-Webfont@v1.0.0/朝華打字機.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/EOZStudio/ZhaohuaTypewriter-Webfont@main/朝華打字機.woff2") format("woff2");
 }
 
 ***迫真打字油印體***
@@ -17,7 +17,7 @@
   font-display: swap;
   font-style: normal;
   font-weight: 400;
-  src: url("https://cdn.jsdelivr.net/gh/EOZStudio/GenSekiGothic-Webfont@v1.0.0/迫真打字油印體.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/EOZStudio/GenSekiGothic-Webfont@main/迫真打字油印體.woff2") format("woff2");
 }
 
 ***油茶饊子體***
@@ -26,5 +26,5 @@
   font-display: swap;
   font-style: normal;
   font-weight: 500;
-  src: url("https://cdn.jsdelivr.net/gh/EOZStudio/GenSekiGothic-Webfont@v1.0.0/油茶饊子體.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/EOZStudio/GenSekiGothic-Webfont@main/油茶饊子體.woff2") format("woff2");
 }
