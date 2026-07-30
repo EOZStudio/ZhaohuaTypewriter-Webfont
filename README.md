@@ -16,7 +16,7 @@
   font-family: "Pozhen-Typewriter";
   font-display: swap;
   font-style: normal;
-  src: url("https://cdn.jsdelivr.net/gh/EOZStudio/GenSekiGothic-Webfont@main/迫真打字油印體.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/EOZStudio/ZhaohuaTypewriter-Webfont@main/迫真打字油印體.woff2") format("woff2");
 }
 
 ***油茶饊子體***
@@ -24,5 +24,5 @@
   font-family: "Youcha-Sanzi";
   font-display: swap;
   font-style: normal;
-  src: url("https://cdn.jsdelivr.net/gh/EOZStudio/GenSekiGothic-Webfont@main/油茶饊子體.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/EOZStudio/ZhaohuaTypewriter-Webfont@main/油茶饊子體.woff2") format("woff2");
 }
