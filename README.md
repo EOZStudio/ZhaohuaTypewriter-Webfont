@@ -3,7 +3,6 @@
 
 原作者：特里王（Terry Wang）
 ```
-***朝華打字機***
 @font-face {
   font-family: "Zhaohua-Typewriter";
   font-display: swap;
@@ -11,7 +10,6 @@
   src: url("https://cdn.jsdelivr.net/gh/EOZStudio/ZhaohuaTypewriter-Webfont@main/朝華打字機.woff2") format("woff2");
 }
 
-***迫真打字油印體***
 @font-face {
   font-family: "Pozhen-Typewriter";
   font-display: swap;
@@ -19,7 +17,6 @@
   src: url("https://cdn.jsdelivr.net/gh/EOZStudio/ZhaohuaTypewriter-Webfont@main/迫真打字油印體.woff2") format("woff2");
 }
 
-***油茶饊子體***
 @font-face {
   font-family: "Youcha-Sanzi";
   font-display: swap;
