@@ -16,7 +16,6 @@
   font-family: "Pozhen-Typewriter";
   font-display: swap;
   font-style: normal;
-  font-weight: 400;
   src: url("https://cdn.jsdelivr.net/gh/EOZStudio/GenSekiGothic-Webfont@main/迫真打字油印體.woff2") format("woff2");
 }
 
@@ -25,6 +24,5 @@
   font-family: "Youcha-Sanzi";
   font-display: swap;
   font-style: normal;
-  font-weight: 500;
   src: url("https://cdn.jsdelivr.net/gh/EOZStudio/GenSekiGothic-Webfont@main/油茶饊子體.woff2") format("woff2");
 }
